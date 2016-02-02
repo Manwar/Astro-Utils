@@ -1,6 +1,6 @@
 package Astro::Utils;
 
-$Astro::Utils::VERSION   = '0.01';
+$Astro::Utils::VERSION   = '0.02';
 $Astro::Utils::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Astro::Utils - Utility package for Astronomical Calculations.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
@@ -366,7 +366,7 @@ Mohammad S Anwar, C<< <mohammad.anwar at yahoo.com> >>
 
 =head1 REPOSITORY
 
-L<https://github.com/Manwar/Astro-Utils>
+L<https://github.com/manwar/Astro-Utils>
 
 =head1 BUGS
 
@@ -443,4 +443,4 @@ OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 =cut
 
-1; # End of Astro-Utils
+1; # End of Astro::Utils
