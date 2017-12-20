@@ -10,3 +10,5 @@ t/01-calculate-equinox.t
 t/02-calculate-solstice.t
 t/manifest.t
 t/pod.t
+t/meta-json.t
+t/meta-yml.t
